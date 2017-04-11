@@ -110,7 +110,7 @@ exportMethods(
     "ChIPQCreport"
 )
 exportClasses(
-    "ChIPQCsample", 
+    "ChIPQCsample",
     "ChIPQCexperiment"
 )
 
@@ -120,6 +120,6 @@ importFrom(TxDb.Hsapiens.UCSC.hg18.knownGene,TxDb.Hsapiens.UCSC.hg18.knownGene)
 importFrom(TxDb.Mmusculus.UCSC.mm10.knownGene, TxDb.Mmusculus.UCSC.mm10.knownGene)
 importFrom(TxDb.Mmusculus.UCSC.mm9.knownGene,TxDb.Mmusculus.UCSC.mm9.knownGene)
 importFrom(TxDb.Rnorvegicus.UCSC.rn4.ensGene, TxDb.Rnorvegicus.UCSC.rn4.ensGene)
+importFrom(TxDb.Rnorvegicus.UCSC.rn6.refGene, TxDb.Rnorvegicus.UCSC.rn6.refGene)
 importFrom(TxDb.Celegans.UCSC.ce6.ensGene,TxDb.Celegans.UCSC.ce6.ensGene)
 importFrom(TxDb.Dmelanogaster.UCSC.dm3.ensGene,TxDb.Dmelanogaster.UCSC.dm3.ensGene)
-
